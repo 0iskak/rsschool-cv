@@ -29,7 +29,7 @@ function highAndLow(numbers){
 }
 ```
 ### Education
-* **2019-2023** ~~Unknown University~~\
+* **2019-2023** American University of Central Asia\
 Bachelor's degree in **Software Engineering**
 * **2021** SCRUM workshop
 ### Languages
